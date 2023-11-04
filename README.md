@@ -2,11 +2,15 @@
 Cooperation with open partnership app 
 
 
-## Description
+## Description of the project
 
-An in-depth paragraph about your project and overview of use.
+The proposal is to create an app to provide each establishment with recommendations to customers of other establishments in the neighborhood.
+The idea is to create a marketplace-enabled platform, where the businesses can find each other. That means that the app users are businesses.
 
-## Getting Started
+## Cooperation
+* Analysis of stores per neighborhood:
+
+  The criticism is that the businesses will not find enough businesses around themselves. So the essence of your understanding is correct, just the framing is different.
 
 ### Dependencies
 
