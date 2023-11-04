@@ -1,0 +1,116 @@
+List of commercial stores
+
+From NACE CODE list
+
+56 - Food and beverage service activities
+56.1 - Restaurants and mobile food service activities
+56.10 - Restaurants and mobile food service activities
+56.2 - Event catering and other food service activities
+56.21 - Event catering activities56.29 - Other food service activities
+56.3 - Beverage serving activities
+56.30 - Beverage serving activities
+
+R - ARTS, ENTERTAINMENT AND RECREATION
+Divisions R (ARTS, ENTERTAINMENT AND RECREATION)
+90 - Creative, arts and entertainment activities
+90.0 - Creative, arts and entertainment activities
+90.01 - Performing arts90.02 - Support activities to performing arts90.03 - Artistic creation90.04 - Operation of arts facilities
+91 - Libraries, archives, museums and other cultural activities
+91.0 - Libraries, archives, museums and other cultural activities
+91.01 - Library and archives activities91.02 - Museums activities91.03 - Operation of historical sites and buildings and similar visitor attractions91.04 - Botanical and zoological gardens and nature reserves activities
+92 - Gambling and betting activities
+92.0 - Gambling and betting activities
+92.00 - Gambling and betting activities
+93 - Sports activities and amusement and recreation activities
+93.1 - Sports activities
+93.11 - Operation of sports facilities
+93.12 - Activities of sports clubs
+93.13 - Fitness facilities
+93.19 - Other sports activities
+
+93.2 - Amusement and recreation activities
+93.21 - Activities of amusement parks and theme parks93.29 - Other amusement and recreation activities
+
+
+From the dataset
+
+Group NACE 56: foods and beverages
+​​array(['Imbissstuben u.ä.', 'Restaurants mit herkömmlicher Bedienung',
+       'Cafés', 'Event-Caterer', 'Schankwirtschaften', 'Eissalons',
+       'Restaurants mit Selbstbedienung', 'Eventcooking / Mietkoch',
+       'Kantinen', 'Schulkantinen, Pausenverkauf', 'Essen auf Rädern',
+       'Gastronomie', 'Speisewagenbetriebe',
+       'Restaurants, Gaststätten, Imbissstuben, Cafés, Eissalons u. ä.',
+       'Sonstige getränkegeprägte Gastronomie',
+       'Diskotheken u. Tanzlokale', 'Ausschank v. Getränken',
+       'Erbringung sonstiger Verpflegungsdienstleistungen',
+       'EH m. Nahrungsmitteln u. Getränken im Reisebus usw.',
+       'Partyservice', 'Bars', 'Raucherlokal, Shisha Bar',
+       'Gaststätten als Zeltbetriebe', 'Vergnügungslokale',
+       'Systemgastronomie', 'Bringdienste mit fertigen Speisen',
+       'Stehcafes / Coffee-Shop'], dtype=object)
+
+Group NACE 90: shows and concerts
+array(['Dienstleistung im Bereich Veranstaltungstechnik',
+       'Erbringung v. Dienstleistungen f. die darstellende Kunst',
+       'Opern- u. Schauspielhäuser, Konzerthallen u. ähnliche Einrichtungen',
+       'Kreative, künstlerische u. unterhaltende Tätigkeiten',
+       'Diskjockey / Moderation / mobile Disko / Alleinunterhalter / Animateur',
+       'Darstellende Kunst', 'Visagist, Maskenbildner, Make-up-Artist',
+       'Dienstleistungen im Veranstaltungsbereich (z. B. Einlassdien',
+       'Selbstständige bildende Künstlerinnen u. Künstler',
+       'Tontechniker',
+       'Selbstständige Journalistinnen u. Journalisten, Pressefotografinnen u. Pressefotografen',
+       'Theater- u. Konzertveranstalter',
+       'Aufbau, Abbau u. Gestalten v. Bühnen', 'Zirkusbetriebe',
+       'Texter / Blogger',
+       'Künstlerisches u. schriftstellerisches Schaffen',
+       'Betrieb v. Kultur- u. Unterhaltungseinrichtungen',
+       'Selbstständige Restauratorinnen u. Restauratoren',
+       'Selbstständige Artistinnen u. Artisten, Zirkusgruppen',
+       'Varietés u. Kleinkunstbühnen',
+       'Ballettgruppen, Orchester, Kapellen u. Chöre', 'Theaterensembles',
+       'Musiker / Musikerin',
+       'Selbstständige Bühnen-, Film-, Hörfunk- u. Fernsehkünstlerinnen u. -künstler sowie sonstige darstellende Kunst',
+       'Lektorat, Korrektur lesen',
+       'Selbstständige Komponistinnen, Komponisten, Musikbearbeiterinnen u. Musikbearbeiter',
+       'Selbstständige Schriftstellerinnen u. Schriftsteller',
+       'Tänzer / Tänzerin'], dtype=object)
+
+GROUP NACE 91: arts books gartens and zoo
+array(['Galerien', 'Museen',
+       'Bibliotheken, Archive, Museen, botanische u. zoologische Gärten',
+       'Bibliotheken u. Archive',
+       'Betrieb v. historischen Stätten u. Gebäuden u. ähnlichen Attraktionen'],
+      dtype=object)
+
+GROUP NACE 92: gambling
+array(['Spielhallen u. Betrieb v. Spielautomaten',
+       'Wett-, Toto- u. Lotteriewesen', 'Spielbanken u. Spielklubs',
+       'Betrieb v. Spielautomaten', 'Spiel-, Wett- u. Lotteriewesen',
+       'Lotto-Annahmestelle, Wett-, Toto- und Lotteriewesen',
+       'Spielhallen', 'Wettannahmestelle'], dtype=object)
+
+GROUP NACE 93: fitness
+array(['Fitnesszentren',
+       'Erbringung v. sonstigen Dienstleistungen des Sports',
+       'Sportvereine',
+       'Erbringung v. Dienstleistungen der Unterhaltung u. der Erholung a.\xa0n.\xa0g.',
+       'Bootshaus', 'Kartbahnen / Gokart', 'Vergnügungs- u. Themenparks',
+       'Betrieb v. Sportanlagen', 'Modellbahnanlage',
+       'Sportanlagen, a.n.g. / z.B. Fußballstadien',
+       'Sportpromoter u. sonstige professionelle Sportveranstalter',
+       'Kegelbahnen / Bowlingbahnen',
+       'Organisation u. Abbrennen v. Feuerwerken',
+       'Beratung v. Sportlern, Spielerberater, Spielevermittler',
+       'Minigolfanlagen', 'Reithalle / Reitplatz',
+       'Erlebnispark / Vergnügungspark / Freizeiteinrichtungen',
+       'Schaustellergewerbe', 'Tennishalle / Squash', 'Golfplatz',
+       'Schwimmbad / Erlebnisbad', 'Hochseilgärten / Kletterpark',
+       'Indoorspielplätze',
+       'Erbringung v. sonstigen Dienstleistungen der Unterhaltung u. der Erholung',
+       'professionelle Sportmannschaften u. Rennställe',
+       'Betrieb v. Puppentheatern, Rodeos, Schießbuden',
+       'Bundes- u. Landesgartenschau',
+       'Eiskunstbahn / Wintersportstadien / Rollschuhbahn',
+       'Berufssportler, Profisportler'], dtype=object)

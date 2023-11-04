@@ -1,5 +1,5 @@
 # Coopswipe [WIP]
-Cooperation with open partnership app 
+Cooperation with open partnership app
 
 
 ### Description of the project
@@ -28,11 +28,10 @@ Link to [Figma](https://www.figma.com/proto/Ss5EDyrasg0NWrJeOu3mWs/Coopswipe?typ
 ### Executing Jupyter Notebook
 
 * Jupyter Notebook
-* `data_analyst` environment
 
 ### References
 * Dataset: [IHK Berlin Gewerbedaten](https://github.com/IHKBerlin/IHKBerlin_Gewerbedaten)
-* Categories of establishments: [NACE CODES](https://ec.europa.eu/competition/mergers/cases/index/nace_all.html) 
+* Categories of establishments: [NACE CODES](https://ec.europa.eu/competition/mergers/cases/index/nace_all.html)
 
 
 ## License
