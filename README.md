@@ -14,6 +14,7 @@ Link to [Figma](https://www.figma.com/proto/Ss5EDyrasg0NWrJeOu3mWs/Coopswipe?typ
 * Analysis of stores per neighborhood:
 
   The criticism is that the businesses will not find enough businesses around themselves. So the essence of your understanding is correct, just the framing is different.
+  > *The idea is to count the number of establishments by category in each city area. We will deduct the possible number of partnerships from that later, because at this point we don’t know what a “successful partnership” could mean.*
 
 ### Dependencies
 
