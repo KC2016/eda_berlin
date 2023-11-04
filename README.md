@@ -20,7 +20,7 @@ An in-depth paragraph about your project and overview of use.
 ### Executing program
 
 * Jupyter Notebook
-* 'data_analyst` environment
+* `data_analyst` environment
 
 ### Dataset
 From [IHK Berlin Gewerbedaten](https://github.com/IHKBerlin/IHKBerlin_Gewerbedaten)
@@ -28,4 +28,4 @@ From [IHK Berlin Gewerbedaten](https://github.com/IHKBerlin/IHKBerlin_Gewerbedat
 
 ## License
 
-CC BY-NC-ND license
+MIT license
