@@ -1,4 +1,4 @@
-# Exploration of data ffrom Berlin
+# Exploration of data from Berlin
 
 * Dataset: [IHK Berlin Gewerbedaten](https://github.com/IHKBerlin/IHKBerlin_Gewerbedaten)
 * Categories of establishments: [NACE CODES](https://ec.europa.eu/competition/mergers/cases/index/nace_all.html)
