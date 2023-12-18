@@ -14,10 +14,13 @@ R - ARTS, ENTERTAINMENT AND RECREATION
 Divisions R (ARTS, ENTERTAINMENT AND RECREATION)
 90 - Creative, arts and entertainment activities
 90.0 - Creative, arts and entertainment activities
-90.01 - Performing arts90.02 - Support activities to performing arts90.03 - Artistic creation90.04 - Operation of arts facilities
+90.01 - Performing arts90.02 - Support activities to performing arts
+90.03 - Artistic creation90.04 - Operation of arts facilities
 91 - Libraries, archives, museums and other cultural activities
 91.0 - Libraries, archives, museums and other cultural activities
-91.01 - Library and archives activities91.02 - Museums activities91.03 - Operation of historical sites and buildings and similar visitor attractions91.04 - Botanical and zoological gardens and nature reserves activities
+91.01 - Library and archives activities91.02 - Museums activities
+91.03 - Operation of historical sites and buildings and similar visitor attractions
+91.04 - Botanical and zoological gardens and nature reserves activities
 92 - Gambling and betting activities
 92.0 - Gambling and betting activities
 92.00 - Gambling and betting activities
