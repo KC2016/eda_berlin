@@ -30,7 +30,6 @@ Divisions R (ARTS, ENTERTAINMENT AND RECREATION)
 93.12 - Activities of sports clubs
 93.13 - Fitness facilities
 93.19 - Other sports activities
-
 93.2 - Amusement and recreation activities
 93.21 - Activities of amusement parks and theme parks93.29 - Other amusement and recreation activities
 
