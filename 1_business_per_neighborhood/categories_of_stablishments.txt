@@ -2,6 +2,9 @@ List of commercial stores
 
 From NACE CODE list
 
+
+I - ACCOMMODATION AND FOOD SERVICE ACTIVITIES
+I56 - Food and beverage service activities
 56 - Food and beverage service activities
 56.1 - Restaurants and mobile food service activities
 56.10 - Restaurants and mobile food service activities
